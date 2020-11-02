@@ -74,7 +74,7 @@
                                             </span>
                                         </li> 
                                        <?php endforeach; ?>
-                                     </ul>
+                                      </ul>
                                    
                                   
                                     <div class="filter-message js-filter-message mt-0 fs-sm"></div>
